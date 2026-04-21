@@ -54,6 +54,3 @@ This workflow can be used as:
 
 ---
 
-## Author
-
-Created as a learning project using n8n automation tools.
